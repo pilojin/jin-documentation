@@ -5,7 +5,7 @@
 
 ### **Перейди по**
 
-### [этой ссылке]()
+### [этой ссылке](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md)
 
 ### **и ознакомься с памяткой!**
 ---
