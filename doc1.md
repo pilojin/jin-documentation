@@ -3,6 +3,27 @@
 ## **Main document / Основной документ**
 ___
 
+## ***Оглавление***:
+
+### **[Мьют](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#мьют)**
+
+### **[Размьют](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#размьют)**
+
+### **[Бан](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#бан)**
+
+### **[Разбан](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#разбан)**
+
+### **[Кик](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#кик)**
+
+### **[Варн/предупреждение](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#варнпредупреждение)**
+
+### **[Анварн/снять предупреждение](анварнснять-предупреждение)**
+
+### **[Сброс всех варнов/предупреждений](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#сброс-всех-варновпредупреждений)**
+
+### **[Выдача временной роли](https://github.com/pilojin/juniperbot-commands/blob/master/doc1.md#выдача-временной-роли)**
+___
+
 ### **МЬЮТ**
 
 Заглушает (мьютит) указанного участника в канале или по всему серверу навсегда или на указанное время.
